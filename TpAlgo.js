@@ -19,7 +19,7 @@ const checkAge = (persona) => {
     if (persona.age > 28)
         console.log("Je suis dans la fleur de l'âge")
     else
-        console.log("Je suis entrain de me bonifier");
+        console.log("Je suis en train de me bonifier");
 }
 
 //EXO 04
